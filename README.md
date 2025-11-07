@@ -49,3 +49,12 @@ python calculator.py
 ## Contributions
 
 Contributions, suggestions, and issue reports are welcome.
+
+
+
+<p align="center">
+  <img src="calculator.jpg" alt="Calculator" width="150">
+</p>
+
+
+
